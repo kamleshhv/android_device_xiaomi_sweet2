@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    libcamera_provider_shim \
     libpiex_shim
 
 # Display
